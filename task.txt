@@ -1,0 +1,23 @@
+执行sql读取数据
+结果存入excel的sheet
+重复5次，存到同一个excel
+
+先读取原表第6个sheet公式
+公式将写入到第6个sheet
+
+打包成exe
+
+第六个sheet前三列是固定吗？
+
+
+直接将数据库结果写入excel前5个sheet。
+第六个会自动变？会
+
+
+
+sql语句结果与excel的5个人sheet列完全相同
+
+
+py读取后修改前一个sheet，那么第六个sheet会自动变化吗？ 会
+
+将数据写入excel指定列  可以
